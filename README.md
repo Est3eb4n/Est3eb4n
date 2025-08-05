@@ -31,14 +31,25 @@ niños con discapacidades cognitivas.
 - Email: brice_esteban28@hotmail.com  
 - Portafolio: [en construcción 🚧]
   
-### Algunos de mis proyectos
 
 <div align="center">
   <h3>🌟 Mis Proyectos</h3>
-  <a href="https://github.com/tuusuario/repo1">
+  <a href="https://github.com/tuusuario/repo1](https://github.com/Est3eb4n/Examen_ExpressJS_Brice-oOrtizEsteban-main.git)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=repo1&theme=radical" />
   </a>
-  <a href="https://github.com/tuusuario/repo2">
+  <a href="https://github.com/tuusuario/repo2](https://github.com/Est3eb4n/Revew_Ecommers_BackEnd.git)">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=repo2&theme=radical" />
+  </a>
+  <a href="https://github.com/Est3eb4n/Est3eb4n-proyecto_acme_school_frontend.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=repo2&theme=radical" />
+  </a>
+  <a href="https://github.com/Est3eb4n/appy_web_acme_school_front.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=repo2&theme=radical" />
+  </a>
+  <a href="https://github.com/Est3eb4n/Proyectoclinica_JavaScript_Brice-oOrtizEsteban.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=repo2&theme=radical" />
+  </a>
+  <a href="https://github.com/Est3eb4n/proyecto_libretia_virtual.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=repo2&theme=radical" />
   </a>
 </div>
