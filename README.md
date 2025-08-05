@@ -1,8 +1,11 @@
 # ¡Hola! 👋 Soy Esteban Briceño
 
+https://www.linkedin.com/in/esteban-brice%C3%B1o-733b07191/
+
 ## 💻 Desarrollador Full Stack (Frontend & Backend)
 Con **2 años de experiencia** en desarrollo web, apasionado por crear soluciones tecnológicas eficientes y escalables.  
-Me especializo en JavaScript y sus ecosistemas, pero siempre estoy aprendiendo nuevas tecnologías.  
+Me encuentro mejorando mis habilidades con el area de Back-End, asi como desarrollando un videojuego web orientado a 
+niños con discapacidades cognitivas.
 
 ### 🛠️ Habilidades Técnicas  
 - **Frontend:** HTML5, CSS3, JavaScript (ES6+)  
@@ -24,5 +27,6 @@ Me especializo en JavaScript y sus ecosistemas, pero siempre estoy aprendiendo n
 ### 📫 ¡Conectemos!  
 - LinkedIn: https://www.linkedin.com/in/esteban-brice%C3%B1o-733b07191/  
 - Email: brice_esteban28@hotmail.com  
-- Portafolio: [en construcción 🚧]  
-
+- Portafolio: [en construcción 🚧]
+  
+### Algunos de mis proyectos
