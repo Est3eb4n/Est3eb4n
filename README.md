@@ -32,3 +32,13 @@ niños con discapacidades cognitivas.
 - Portafolio: [en construcción 🚧]
   
 ### Algunos de mis proyectos
+
+<div align="center">
+  <h3>🌟 Mis Proyectos</h3>
+  <a href="https://github.com/tuusuario/repo1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=repo1&theme=radical" />
+  </a>
+  <a href="https://github.com/tuusuario/repo2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=repo2&theme=radical" />
+  </a>
+</div>
