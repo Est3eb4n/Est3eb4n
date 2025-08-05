@@ -1,7 +1,27 @@
 # ¡Hola! 👋 Soy Esteban Briceño
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<img src="https://tu-enlace-de-gif.gif" width="300">
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Desarrollador+Full+Stack;Node.js+%7C+Python+%7C+MongoDB" alt="Texto animado" />
+</div>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Hola,+soy+Esteban+Briceño;Desarrollador+Full+Stack)
+
+![Snake animation](https://github.com/TuUsuario/TuUsuario/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center">
+  <i class="fa-brands fa-js fa-bounce" style="color: #f7df1e;"></i>
+  <i class="fa-brands fa-python fa-flip" style="color: #3776ab;"></i>
+</p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=¡Hola,+soy+Esteban+Briceño!;Desarrollador+Full+Stack" alt="Texto animado" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuario&layout=compact&theme=radical" />
+  <br>
+  ![Snake animation](https://github.com/TuUsuario/TuUsuario/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 ## 💻 Desarrollador Full Stack (Frontend & Backend)
 Con **2 años de experiencia** en desarrollo web, apasionado por crear soluciones tecnológicas eficientes y escalables.  
