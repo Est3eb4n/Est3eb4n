@@ -1,6 +1,7 @@
 # ¡Hola! 👋 Soy Esteban Briceño
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ## 💻 Desarrollador Full Stack (Frontend & Backend)
 Con **2 años de experiencia** en desarrollo web, apasionado por crear soluciones tecnológicas eficientes y escalables.  
