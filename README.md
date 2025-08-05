@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Esteban Briceño
 
-https://www.linkedin.com/in/esteban-brice%C3%B1o-733b07191/
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ## 💻 Desarrollador Full Stack (Frontend & Backend)
 Con **2 años de experiencia** en desarrollo web, apasionado por crear soluciones tecnológicas eficientes y escalables.  
