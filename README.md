@@ -13,9 +13,8 @@ niños con discapacidades cognitivas.
 - **Herramientas y Metodologias:** ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white), ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white), ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white), ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 - **Idiomas:** Inglés (B1)  
 
-### 🌱 Actualmente aprendiendo  
-- [ ] TypeScript  
-- [ ] React.js o Vue.js (¡recomiéndame uno!)  
+### 🌱 Actualmente aprendiendo
+- [ ] Vue.js (¡recomiéndame uno!)  
 - [ ] Mejorando mi inglés técnico  
 
 ### ✨ Sobre mí  
