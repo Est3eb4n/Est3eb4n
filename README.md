@@ -32,5 +32,5 @@ niños con discapacidades cognitivas.
 - [🧠 Libreria Virtual ](https://github.com/Est3eb4n/Libretia_virtual.git) - Un gestor de libros vitual echo en python.
 - [🎨 front_Aerolinea ](https://github.com/Est3eb4n/Aero_linea_front_end.git) - Maquetacion para una aerolinea echa en html y css banila.
 - [🎨🧠 Agenda_Virtual ](https://github.com/Est3eb4n/Examen_JavaScript_Brice-oOrtizEsteban.git) - Un gestor de citas con interfaz de usuario echa en html y css, asi como con funionalidades de JavaScript.
-- [🧮🧠 Base_de_datos_colegio ](https://github.com/Est3eb4n/Base_de_datos_colegio.git) - Un gestor de base de datos no sql que permite gestionar estudiantes, profesores, asignaturas y clases asignadas.
-- [🧮🧠 Gestor_de_Hospital ](https://github.com/Est3eb4n/Proyecto_NodeJS_BricenoOrtizEsteban.git) - Un gestor de base de datos sql para un hospital .
+- [🧮🧠 Base_de_datos_colegio ](https://github.com/Est3eb4n/Base_de_datos_colegio.git) - Un gestor de base de datos sql que permite gestionar estudiantes, profesores, asignaturas y clases asignadas.
+- [🧮🧠 Gestor_de_Hospital ](https://github.com/Est3eb4n/Proyecto_NodeJS_BricenoOrtizEsteban.git) - Un gestor de base de datos no sql para un hospital .
